@@ -1,0 +1,26 @@
+{
+    "timeZone": "Australia/Adelaide",
+    "dependencies": {
+      "libraries": [{
+        "userSymbol": "OAuth2",
+        "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
+        "version": "22"
+      }, {
+        "userSymbol": "UrlShortener",
+        "libraryId": "1ddSpTQoae2xdocyx0GcfNCKOjZu8je_OFWXUM_-cG-fGVJIQyxGRrAnQ",
+        "version": "7"
+      }]
+    },
+    "webapp": {
+      "access": "MYSELF",
+      "executeAs": "USER_DEPLOYING"
+    },
+    "dataStudio": {
+      "name": "Facebook Connector",
+      "logoUrl": "https://i.imgur.com/4UVkrNK.png",
+      "company": "Chris The Data Guy",
+      "addonUrl": "http://christhedataguy.com/",
+      "supportUrl": "http://christhedataguy.com/",
+      "description": "This connector uses the Facebook API to retrieve Insights data from Facebook. Work in progress. "
+    }
+  }
